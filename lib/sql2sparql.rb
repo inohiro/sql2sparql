@@ -1,5 +1,4 @@
 # coding: utf-8
 
-module sql2sparql
-
+module SQL2SPARQL
 end
